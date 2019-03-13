@@ -10,7 +10,9 @@ public class RemoteDevice {
 	private State playing;
 	private State paused;
 	private State stopped;
-	
+	private State rewound;
+	private State lock;
+
 	//the current state of the player
 	private State currentState;
 	
@@ -26,6 +28,7 @@ public class RemoteDevice {
 		playing = new Playing(this);
 		paused = new Paused(this);
 		stopped = new Stopped(this);
+		lock = new Lock(this);
 	
 		// initial state is stopped	
 		currentState = stopped;
@@ -64,6 +67,11 @@ public class RemoteDevice {
 		currentState.pressStop();
 	}
 
+	public void pressRewind() {currentState.pressRewind();}
+
+	public void pressLock() {currentState.pressLock(); }
+
+
 	// return the playing state	
 	public State getPlayingState() {
 		return playing;
@@ -78,4 +86,9 @@ public class RemoteDevice {
 	public State getStoppedState() {
 		return stopped;
 	}
+
+	public State getRewoundState() {return rewound;}
+
+	public State getLockState() { return lock;}
+
 }

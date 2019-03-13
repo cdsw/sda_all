@@ -14,6 +14,7 @@ public class Playing implements State {
 	// the Play button is pressed
 	public boolean pressPlay() {
 		System.out.println("The player is already playing.");
+
 		
 		return false;
 	}
@@ -34,5 +35,20 @@ public class Playing implements State {
 
 		return true;
 	}
+
+	public boolean pressRewind() {
+		System.out.println("Pressed rewind. Nothing happens.");
+
+		return false;
+	}
+
+	public boolean pressLock() {
+		System.out.println("Locking Remote.");
+		remote.setState(remote.getLockState());
+		((Lock) remote.getLockState()).setBeforeLockState(this);
+
+		return true;
+	}
+
 
 }

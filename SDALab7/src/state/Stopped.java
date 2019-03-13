@@ -35,4 +35,21 @@ public class Stopped implements State {
 		return false;
 	}
 
+	public boolean pressRewind() {
+		System.out.println("The player is now rewound");
+		remote.setState(remote.getRewoundState());
+		remote.setPosition(0);
+
+		return true;
+	}
+
+	public boolean pressLock() {
+		System.out.println("Locking Remote.");
+		remote.setState(remote.getLockState());
+		((Lock) remote.getLockState()).setBeforeLockState(this);
+
+		return true;
+	}
+
+
 }
