@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="150cebc8-518f-430c-afbc-c80bd9f74e2c" name="Default Changelist" comment="" />
+    <list default="true" id="150cebc8-518f-430c-afbc-c80bd9f74e2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SDALab8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator/PancakeHouseIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,8 +157,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-54" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-21" />
+    <option name="y" value="3" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -162,7 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,40 +177,11 @@
               <item name="SDALab7" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDALab7" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SDALab7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDALab7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDALab7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDALab7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="memento" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDALab7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDALab7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="memento_exp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDALab7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDALab7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="state" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SDALab7" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SDALab7" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="state_exp" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,16 +252,19 @@
       <updated>1552436260198</updated>
       <workItem from="1552436261834" duration="7411000" />
       <workItem from="1552452199498" duration="369000" />
+      <workItem from="1553047066473" duration="25000" />
+      <workItem from="1553047128598" duration="610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7780000" />
+    <option name="totallyTimeSpent" value="8415000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
+    <frame x="-7" y="23" width="1295" height="704" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -466,13 +447,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/memento/ScheduleTableModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/state/Paused.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -503,16 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/state/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/state/RemoteDeviceV1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -534,6 +498,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/memento/ScheduleTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>

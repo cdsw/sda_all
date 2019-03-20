@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5294e1d7-396b-4494-83c3-5bb4b5e17501" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SDALab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab2X/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab2X/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDALab8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator/PancakeHouseIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-21" />
     <option name="y" value="3" />
     <option name="width" value="1920" />
@@ -223,16 +223,18 @@
       <workItem from="1551773002590" duration="613000" />
       <workItem from="1551812999007" duration="16000" />
       <workItem from="1552452183242" duration="5000" />
+      <workItem from="1553047493266" duration="246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15019000" />
+    <option name="totallyTimeSpent" value="15265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
+    <frame x="-7" y="23" width="1295" height="704" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2672065" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27206478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
