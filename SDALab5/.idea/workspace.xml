@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5294e1d7-396b-4494-83c3-5bb4b5e17501" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SDALab8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator/DinerMenuIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator/PancakeHouseIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDALab8/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_/PancakeHouseMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDAV/SDA Lab8/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_/DinerMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator/DinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_/DinerMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator/MenuTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_/MenuTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator/PancakeHouseIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_/PancakeHouseMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDAV/SDA Lab8/src/iterator/DinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDAV/SDA Lab8/src/iterator/DinerMenuIterator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -223,12 +234,12 @@
       <workItem from="1551773002590" duration="613000" />
       <workItem from="1551812999007" duration="16000" />
       <workItem from="1552452183242" duration="5000" />
-      <workItem from="1553047493266" duration="246000" />
+      <workItem from="1553047493266" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15265000" />
+    <option name="totallyTimeSpent" value="15617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1295" height="704" extended-state="7" />

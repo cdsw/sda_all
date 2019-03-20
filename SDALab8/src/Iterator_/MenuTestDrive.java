@@ -1,6 +1,4 @@
-package Iterator;
-
-import java.util.*;
+package Iterator_;
 
 public class MenuTestDrive {
 	public static void main(String args[]) {
