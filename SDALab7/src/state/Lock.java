@@ -1,4 +1,3 @@
-package state;
 public class Lock implements State {
 
     private RemoteDevice remote;

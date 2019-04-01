@@ -24,11 +24,11 @@ public class CompositeIterator implements Iterator {
 		}
 	}
 	
-	public Object_Component next() {
+	public Prim next() {
 		if (hasNext()) {
 			Iterator iterator = (Iterator) stack.peek();
-			Object_Component o = (Object_Component) iterator.next();
-			if (o instanceof Object_Component) {
+			Prim o = (Prim) iterator.next();
+			if (o instanceof Prim) {
 				stack.push(o.createIterator());
 			}
 			return o;

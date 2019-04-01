@@ -16,20 +16,15 @@ public class ScheduleTableModel extends DefaultTableModel {
 	super(data, columnNames);
     }
 
-    public TableMemento createMemento()
-    {
-	// COMPLETE.
+    public TableMemento createMemento() {
+	    // COMPLETE.
         throw new UnsupportedOperationException();
-
 
     }
 
-    public void setMemento(TableMemento memento)
-    {
+    public void setMemento(TableMemento memento) {
 	// COMPLETE.
         throw new UnsupportedOperationException();
-
-
 
     }
 }

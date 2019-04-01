@@ -1,4 +1,6 @@
 package Iterator_Comp;
+import java.util.List;
+import java.util.ArrayList;
 import java.util.Iterator;
 
 public class test_prims {
@@ -10,8 +12,8 @@ public class test_prims {
        // Cylinder cylinder1 = new Cylinder();
         
         //Initialize three composite prims
-        Object pcom1 = new Object();
-        Object pcom2 = new Object();
+        Composite pcom1 = new Composite();
+        Composite pcom2 = new Composite();
           
          pcom1.add(cube1);
          pcom1.add(cube2);
@@ -25,7 +27,7 @@ public class test_prims {
         
          Iterator iterator = pcom2.createIterator();
          while (iterator.hasNext()) {
-         	((Object_Component) iterator.next()).render();
+         	((Prim) iterator.next()).render();
            }
         }
 }

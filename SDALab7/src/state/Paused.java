@@ -3,7 +3,7 @@
  * 
  * This file represents the Paused state.
  */
-package state;
+
 public class Paused implements State {
 	private RemoteDevice remote;
 	

@@ -4,7 +4,6 @@
  * This file represents the different transitions
  * between all states.
  */
-package state;
 public interface State {
 	public boolean pressPlay();
 	public boolean pressPause();

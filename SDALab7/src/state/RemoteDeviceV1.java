@@ -1,4 +1,4 @@
-package state;
+
 public class RemoteDeviceV1 {
 		public enum State {PLAYING, PAUSED, STOPPED};
 		

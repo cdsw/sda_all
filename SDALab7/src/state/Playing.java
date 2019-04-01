@@ -3,7 +3,7 @@
  *
  * This file represents the Playing state
  */
-package state;
+
 public class Playing implements State {
 	private RemoteDevice remote;
 	

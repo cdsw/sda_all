@@ -4,22 +4,20 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class PancakeHouseMenuIterator implements Iterator {
-    ArrayList al = new ArrayList();
-    Iterator ia = al.iterator();
 
-    PancakeHouseMenuIterator(ArrayList al){
-        this.al = al;
+    private ArrayList menuItems;
+    private int counter = 0;
+
+    public PancakeHouseMenuIterator(ArrayList menuItems) {
+        this.menuItems = new ArrayList(menuItems);
     }
 
-    @Override
     public boolean hasNext() {
-        while(ia.hasNext())
-            return ia.hasNext();
-        return false;
+        return counter < menuItems.size();
     }
 
-    @Override
     public Object next() {
-        return ia.next();
+        return menuItems.get(counter++);
     }
+
 }

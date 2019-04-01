@@ -4,7 +4,7 @@
  * This is the device that we are controlling with the
  * State pattern.
  */
-package state;
+
 public class RemoteDevice {
 	// the different states the device may be in
 	private State playing;

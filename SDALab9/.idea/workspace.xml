@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c8ed106-1227-4a4a-af50-ec86eea1e89f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bridge/src_lab/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bridge/src_lab/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bridge/src_lab/WrapScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mediator_/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mediator_/Mediator_Concrete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/src/memento/ScheduleTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/memento/ScheduleTableModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/src/memento/TableMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/memento/TableMemento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/src/state/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/state/Lock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/src/state/Paused.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/state/Paused.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/src/state/Playing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/state/Playing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/src/state/RemoteDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/state/RemoteDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/src/state/RemoteDeviceV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/state/RemoteDeviceV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/src/state/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/state/State.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/src/state/Stopped.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/state/Stopped.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/src/state/TestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/state/TestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_/PancakeHouseMenuIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_/PancakeHouseMenuIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/CompositeIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/CompositeIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/Cube.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/Cube.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/Object_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/Object_Component.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/Prim.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/Prim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/Sphere.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/Sphere.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/test_prims.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/out/production/SDALab8/Iterator_Comp/test_prims.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator_/PancakeHouseMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_/PancakeHouseMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator_Comp/CompositeIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_Comp/CompositeIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator_Comp/Prim.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_Comp/Prim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab8/src/Iterator_Comp/test_prims.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab8/src/Iterator_Comp/test_prims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDAV/SDA Lab8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDAV/SDA Lab8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDAV/SDA Lab8/src/iterator/PancakeHouseMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDAV/SDA Lab8/src/iterator/PancakeHouseMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDAV/SDA Lab9/src/mediator/AmericanSeller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDAV/SDA Lab9/src/mediator/Buyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDAV/SDA Lab9/src/mediator/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDAV/SDA Lab9/src/mediator/DollarConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDAV/SDA Lab9/src/mediator/FrenchBuyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDAV/SDA Lab9/src/mediator/Mediator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDAV/SDA Lab9/src/mediator/SwedishBuyer.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Mediator_/Mediator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Mediator_/FrenchBuyer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Mediator_/Buyer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Mediator_/Mediator_Concrete.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding>
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
+                <element signature="e#546#547#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Mediator_/AmericanSeller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Mediator_/SwedishBuyer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Mediator_/DollarConverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Mediator_/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Bridge/example/BridgeTest.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/example/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/example/DrawingService.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/example/Polygon.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/example/Printer.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/example/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/example/Screen.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/example/Shape.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/example/WrapPrinter.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/example/WrapScreen.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/example/WrapXmlWriter.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/example/XmlWriter.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/Line.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/Square.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/WrapDataProjector.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/WrapMonitor.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/DataProjector.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/Arc.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/Mediator/AmericanSeller.java" />
+        <option value="$PROJECT_DIR$/src/Mediator/Buyer.java" />
+        <option value="$PROJECT_DIR$/src/Mediator/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Mediator/DollarConverter.java" />
+        <option value="$PROJECT_DIR$/src/Mediator/FrenchBuyer.java" />
+        <option value="$PROJECT_DIR$/src/Mediator/SwedishBuyer.java" />
+        <option value="$PROJECT_DIR$/src/Mediator/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/Circle.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/Shape.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/Polygon.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/WrapXMLWriter.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/XMLWriter.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/DrawingService.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/Screen.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/WrapScreen.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/Printer.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/WrapPrinter.java" />
+        <option value="$PROJECT_DIR$/src/Bridge/src_lab/Test.java" />
+        <option value="$PROJECT_DIR$/src/Mediatore/AmericanSeller.java" />
+        <option value="$PROJECT_DIR$/src/Mediatore/Buyer.java" />
+        <option value="$PROJECT_DIR$/src/Mediatore/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Mediatore/DollarConverter.java" />
+        <option value="$PROJECT_DIR$/src/Mediatore/FrenchBuyer.java" />
+        <option value="$PROJECT_DIR$/src/Mediatore/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/Mediatore/SwedishBuyer.java" />
+        <option value="$PROJECT_DIR$/src/Mediator_/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/Mediator_/Demo.java" />
+        <option value="$PROJECT_DIR$/src/Mediator_/Mediator_Concrete.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="948" />
+    <option name="y" value="45" />
+    <option name="width" value="981" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SDALab9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SDALab9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDALab9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SDALab9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554100890917" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Bridge.src_lab" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.með">
+    <configuration name="bri" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Bridge.src_lab.Test" />
+      <module name="SDALab9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="með" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Mediator_.Demo" />
+      <module name="SDALab9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="með_2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Mediatore.Demo" />
+      <module name="SDALab9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.bri" />
+      <item itemvalue="Application.með_2" />
+      <item itemvalue="Application.með" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c8ed106-1227-4a4a-af50-ec86eea1e89f" name="Default Changelist" comment="" />
+      <created>1553652119743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553652119743</updated>
+      <workItem from="1553652124914" duration="541000" />
+      <workItem from="1553652858083" duration="5297000" />
+      <workItem from="1553699291887" duration="591000" />
+      <workItem from="1554062362789" duration="3973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10402000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32867134" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Sequence" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32867134" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/DrawingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/WrapScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/WrapMonitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/Monitor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/Square.java" />
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/Arc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/Polygon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/XmlWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/WrapXmlWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/XMLWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/BridgeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/DrawingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/WrapPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/WrapPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/WrapScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/WrapXMLWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/example/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bridge/src_lab/Polygon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Bridge.src_lab">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Bridge.src_lab</OriginalElement>
+          <nodes>
+            <node x="" y="">Bridge.src_lab.XMLWriter</node>
+            <node x="" y="">Bridge.src_lab.Shape</node>
+            <node x="" y="">Bridge.src_lab.WrapScreen</node>
+            <node x="" y="">Bridge.src_lab.Line</node>
+            <node x="" y="">Bridge.src_lab.Rectangle</node>
+            <node x="" y="">Bridge.src_lab.Test</node>
+            <node x="" y="">Bridge.src_lab.Polygon</node>
+            <node x="" y="">Bridge.src_lab.DrawingService</node>
+            <node x="" y="">Bridge.src_lab.Arc</node>
+            <node x="" y="">Bridge.src_lab.Screen</node>
+            <node x="" y="">Bridge.src_lab.WrapPrinter</node>
+            <node x="" y="">Bridge.src_lab.Printer</node>
+            <node x="" y="">Bridge.src_lab.Circle</node>
+            <node x="" y="">Bridge.src_lab.WrapXMLWriter</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="83.0" y="184.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediatore/Buyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediatore/DollarConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediatore/FrenchBuyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediatore/SwedishBuyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediatore/AmericanSeller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediatore/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediator_/SwedishBuyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediator_/DollarConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediator_/Buyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediator_/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediatore/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediator_/AmericanSeller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediator_/Mediator_Concrete.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediator_/FrenchBuyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mediator_/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

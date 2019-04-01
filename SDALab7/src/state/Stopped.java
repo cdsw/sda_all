@@ -3,7 +3,7 @@
  *
  * This file represents the Stopped state.
  */
-package state;
+
 public class Stopped implements State {
 	private RemoteDevice remote;
 	
