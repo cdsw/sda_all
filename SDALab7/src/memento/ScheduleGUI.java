@@ -103,7 +103,7 @@ public class ScheduleGUI extends JFrame {  // Caretaker
 	panel.add(revertButton);
 	getContentPane().add(panel, BorderLayout.SOUTH);
 
-	// Take a memento for the initial state of the table.
+	// Take a memento for the initial State_ of the table.
 	// COMPLETE.
 
 
