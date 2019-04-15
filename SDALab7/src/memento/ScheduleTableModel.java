@@ -17,7 +17,6 @@ public class ScheduleTableModel extends DefaultTableModel {
     }
 
     public TableMemento createMemento() {
-        // COMPLETE.
         ArrayList tempIdentifier = new ArrayList();
         ArrayList tempData = new ArrayList();
         for (Object object : this.columnIdentifiers) {
@@ -38,9 +37,7 @@ public class ScheduleTableModel extends DefaultTableModel {
     }
 
     public void setMemento(TableMemento memento) {
-        // COMPLETE.
         this.memento = memento;
-
     }
 
     public void revert() {

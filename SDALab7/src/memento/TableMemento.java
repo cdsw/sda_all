@@ -17,41 +17,25 @@ public class TableMemento implements java.io.Serializable {
     // - a List of column identifiers
     // - a List of Lists of Object values (assumption: Strings)
 
-    TableMemento() {
-
-    }
-
     TableMemento(ArrayList columnIdentifiers, ArrayList dataList) {
         // COMPLETE.
         this.columnIdentifiers = columnIdentifiers;
         this.dataList = dataList;
-
-
     }
 
     // Package visibility to only allow access for
     // the Originator.
     ArrayList getColumnIdentifiers() {
-        // COMPLETE.
         return (ArrayList) this.columnIdentifiers;
-
-
     }
 
     ArrayList getDataVector() {
-        // COMPLETE.
         return (ArrayList) this.dataList;
-
-
     }
 
     @Override
     public String toString() {
-        return "[ci=" + columnIdentifiers.toString() + "\n" +
-                "dl=" + dataList.toString() + "]";
+        return "[Identifiers:" + columnIdentifiers.toString() + "\n" +
+                "Data List:=" + dataList.toString() + "]";
     }
-
-    // Other private (static) helper methods.
-    // COMPLETE if necessary.
-
 }
