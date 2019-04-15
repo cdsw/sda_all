@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54ff7b38-b268-48a8-b6c6-a5c66717f59f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/Design_lab_11_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDALab11_.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/BuilderDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/BurgerMealBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/Cook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/HealthyMealBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/Meal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/MealBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/Design_lab_11_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/Body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/CarElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/CarElementDoVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/CarElementPrintVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/CarElementVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/VisitorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/Wheel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/DISpringHelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/DIXMLSpringHelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/DefaultMessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/MessageDestination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/MessageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/MessageSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/StdoutMessageDestination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/hello.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/hello.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-instrument-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-orm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-oxm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/BuilderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/BurgerMealBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/Cook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/HealthyMealBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/Meal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/MealBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/Body.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/CarElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/CarElementDoVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/CarElementPrintVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/CarElementVisitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/VisitorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/Wheel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/DISpringHelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/DIXMLSpringHelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/DefaultMessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/MessageDestination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/MessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/MessageSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/StdoutMessageDestination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/L11_3/DISpringHelloWorld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hello.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/L11_1/BuilderDemo.java" />
+        <option value="$PROJECT_DIR$/src/L11_1/Cook.java" />
+        <option value="$PROJECT_DIR$/src/L11_1/HealthyMealBuilder.java" />
+        <option value="$PROJECT_DIR$/src/L11_1/Meal.java" />
+        <option value="$PROJECT_DIR$/src/L11_1/MealBuilder.java" />
+        <option value="$PROJECT_DIR$/src/L11_2/Body.java" />
+        <option value="$PROJECT_DIR$/src/L11_2/Car.java" />
+        <option value="$PROJECT_DIR$/src/L11_2/CarElement.java" />
+        <option value="$PROJECT_DIR$/src/L11_2/CarElementDoVisitor.java" />
+        <option value="$PROJECT_DIR$/src/L11_2/CarElementPrintVisitor.java" />
+        <option value="$PROJECT_DIR$/src/L11_2/CarElementVisitor.java" />
+        <option value="$PROJECT_DIR$/src/L11_2/Engine.java" />
+        <option value="$PROJECT_DIR$/src/L11_2/VisitorDemo.java" />
+        <option value="$PROJECT_DIR$/src/L11_2/Wheel.java" />
+        <option value="$PROJECT_DIR$/src/L11_3/DefaultMessageService.java" />
+        <option value="$PROJECT_DIR$/src/L11_3/DISpringHelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/L11_3/MessageDestination.java" />
+        <option value="$PROJECT_DIR$/src/L11_3/MessageSource.java" />
+        <option value="$PROJECT_DIR$/src/L11_3/MessageService.java" />
+        <option value="$PROJECT_DIR$/src/L11_3/StdoutMessageDestination.java" />
+        <option value="$PROJECT_DIR$/src/L11_3/DIXMLSpringHelloWorld.java" />
+        <option value="$PROJECT_DIR$/hello.xml" />
+        <option value="$PROJECT_DIR$/hello.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="948" />
+    <option name="y" value="45" />
+    <option name="width" value="981" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SDALab11_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SDALab11_" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDALab11_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SDALab11_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDALab11_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SDALab11_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="L11_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555335773857" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.L113-1">
+    <configuration name="L111" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="L11_1.BuilderDemo" />
+      <module name="SDALab11_" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L112" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="L11_2.VisitorDemo" />
+      <module name="SDALab11_" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L113-1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="L11_3.DISpringHelloWorld" />
+      <module name="SDALab11_" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L113-2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="L11_3.DIXMLSpringHelloWorld" />
+      <module name="SDALab11_" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.L111" />
+      <item itemvalue="Application.L112" />
+      <item itemvalue="Application.L113-1" />
+      <item itemvalue="Application.L113-2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54ff7b38-b268-48a8-b6c6-a5c66717f59f" name="Default Changelist" comment="" />
+      <created>1555334798070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555334798070</updated>
+      <workItem from="1555334803450" duration="959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="959000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Sequence" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32867134" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/L11_1/BuilderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_1/BurgerMealBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_1/Cook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_1/HealthyMealBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_1/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_2/Body.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_2/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_2/CarElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_2/CarElementDoVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_1/MealBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_2/CarElementPrintVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_2/CarElementVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_2/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_2/VisitorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_2/Wheel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_3/DefaultMessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_3/MessageDestination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_3/MessageSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_3/MessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_3/StdoutMessageDestination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_3/DIXMLSpringHelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/L11_3/DISpringHelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|SDALab11_</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
