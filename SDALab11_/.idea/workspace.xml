@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54ff7b38-b268-48a8-b6c6-a5c66717f59f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/Design_lab_11_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDALab11_.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/BuilderDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/BurgerMealBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/Cook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/HealthyMealBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/Meal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_1/out/production/Design_lab_11_1/MealBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/Design_lab_11_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/Body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/CarElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/CarElementDoVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/CarElementPrintVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/CarElementVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/VisitorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_2/out/production/Design_lab_11_2/Wheel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/DISpringHelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/DIXMLSpringHelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/DefaultMessageService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/MessageDestination.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/MessageService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/MessageSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/Design_lab_11_3/out/production/Design_lab_11_3/StdoutMessageDestination.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/hello.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/hello.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-instrument-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-orm-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-oxm-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/BuilderDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/BurgerMealBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/Cook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/HealthyMealBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/Meal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_1/MealBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/Body.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/CarElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/CarElementDoVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/CarElementPrintVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/CarElementVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/VisitorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_2/Wheel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/DISpringHelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/DIXMLSpringHelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/DefaultMessageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/MessageDestination.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/MessageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/MessageSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11/src/L11_3/StdoutMessageDestination.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="54ff7b38-b268-48a8-b6c6-a5c66717f59f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +100,7 @@
               <item name="SDALab11_" type="b2602c69:ProjectViewProjectNode" />
               <item name="SDALab11_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="L11_3" type="462c0819:PsiDirectoryNode" />
+              <item name="L11_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,7 +113,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555335773857" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555335857329" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -253,23 +178,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555334798070</updated>
-      <workItem from="1555334803450" duration="959000" />
+      <workItem from="1555334803450" duration="1055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="959000" />
+    <option name="totallyTimeSpent" value="1055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
@@ -281,7 +205,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32867134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
