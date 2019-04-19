@@ -3,8 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package movielister;
-
+package example2.movielister;
 import java.util.Date;
 import org.springframework.context.ApplicationContext;
 

@@ -1,6 +1,5 @@
 
-package movie;
-
+package example1.movie;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

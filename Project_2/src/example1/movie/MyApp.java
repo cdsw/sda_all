@@ -1,5 +1,4 @@
-package movie;
-
+package example1.movie;
 import java.util.List;
 import java.util.Scanner;
 

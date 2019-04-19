@@ -1,5 +1,5 @@
 
-package movie;
+package example1.movie;
 
 import java.util.List;
 import org.hibernate.Session;
