@@ -2,7 +2,13 @@
 <module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="Spring" name="Spring">
-      <configuration />
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/example2/secondary_config.xml</file>
+          <file>file://$MODULE_DIR$/src/example2/beans.xml</file>
+          <file>file://$MODULE_DIR$/src/example1/application.xml</file>
+        </fileset>
+      </configuration>
     </facet>
     <facet type="hibernate" name="Hibernate">
       <configuration>
@@ -16,6 +22,7 @@
     <facet type="jpa" name="JPA">
       <configuration>
         <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="Hibernate" />
         <datasource-mapping>
           <factory-entry name="MovieListerPU" />
         </datasource-mapping>
@@ -34,5 +41,7 @@
     <orderEntry type="library" name="Spring-4.3.18.RELEASE" level="project" />
     <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
     <orderEntry type="library" name="Hibernate 5.4.2-5.4.2" level="project" />
+    <orderEntry type="library" name="org.apache.derby:derby:10.14.2.0" level="project" />
+    <orderEntry type="library" name="org.apache.derby:derbyclient:10.14.2.0" level="project" />
   </component>
 </module>

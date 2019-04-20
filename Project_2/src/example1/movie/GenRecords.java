@@ -9,7 +9,7 @@ public class GenRecords {
     public static void main(String[] args) {
         
         SessionFactory factory = new Configuration()
-                                    .configure("hibernate.cfg.xml")
+                                    .configure("example1/hibernate.cfg.xml")
                                     .buildSessionFactory();
         
         Session session = factory.getCurrentSession();
