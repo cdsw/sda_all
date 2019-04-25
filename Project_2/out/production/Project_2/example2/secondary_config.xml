@@ -4,7 +4,7 @@
 
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
 ">
-  <bean id="movie" class="movielister.Movie_1" scope="prototype"/>
+  <bean id="movie" class="example2.movielister.Movie_1" scope="prototype"/>
   
   <bean id="list" class="java.util.ArrayList"  scope="prototype"/>
   

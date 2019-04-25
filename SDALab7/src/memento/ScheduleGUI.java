@@ -1,21 +1,13 @@
 package memento;
 
 
-import java.awt.*;
-import java.awt.event.*;
-import java.io.BufferedInputStream;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.ObjectInput;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.util.Date;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
+import java.io.*;
 
 public class ScheduleGUI extends JFrame {  // Caretaker
 
@@ -61,9 +53,6 @@ public class ScheduleGUI extends JFrame {  // Caretaker
 
         JMenuBar mb = new JMenuBar();
         JMenu fileMenu = new JMenu("File");
-        // Add "Save As.." menu item here; register corresponding
-        // listener (optional);
-        // COMPLETE.
         JMenuItem saveMenuItem = new JMenuItem("Save");
         saveMenuItem.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
@@ -105,10 +94,8 @@ public class ScheduleGUI extends JFrame {  // Caretaker
                         m = (TableMemento) in.readObject();
                         in.close();
                         fileIn.close();
-                    } catch (IOException i) {
+                    } catch (IOException | ClassNotFoundException i) {
                         i.printStackTrace();
-                    } catch (ClassNotFoundException c) {
-                        c.printStackTrace();
                     }
                     TableMemento temp = tableModel.createMemento();
                     tableModel.setMemento(m);

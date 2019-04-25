@@ -14,24 +14,24 @@ http://www.springframework.org/schema/lang http://www.springframework.org/schema
       <constructor-arg ref="secondary_config" />
   </bean>
   
-  <bean id="movie_factory" class="movielister.ConcreteMovieFactory" >
+  <bean id="movie_factory" class="example2.movielister.ConcreteMovieFactory" >
       <constructor-arg index="0" ref="secondary_context" />
   </bean>
   
-  <bean id="file_reader_factory" class="movielister.ConcreteFileReaderFactory" >
+  <bean id="file_reader_factory" class="example2.movielister.ConcreteFileReaderFactory" >
       <constructor-arg index="0" ref="secondary_context" />
   </bean>
   
-  <bean id="finder" class="movielister.DatabaseMovieFinder" />
+  <bean id="finder" class="example2.movielister.DatabaseMovieFinder" />
   
-  <bean id="database_finder" class="movielister.DatabaseMovieFinder" />
+  <bean id="database_finder" class="example2.movielister.DatabaseMovieFinder" />
   
   <bean id="file_finder" class="movielister.TabDelimitedMovieFinder" >
       <constructor-arg index="0" ref="movie_factory" />
       <constructor-arg index="1" ref="file_reader_factory" />
   </bean>
 
-  <bean id="lister" class="movielister.MovieLister" >
+  <bean id="lister" class="example2.movielister.MovieLister" >
     <constructor-arg ref="file_finder" />
   </bean>
 </beans>
