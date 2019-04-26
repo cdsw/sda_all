@@ -2,50 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b7a77a-a731-428e-b52e-80c2f97a21c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SDALab12/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/AbstractIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/FlyweightDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/FolderIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/IconFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/JavaIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/PdfIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/PictureIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/TextIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/UnknownIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/images/folder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/images/folder_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/images/pdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/images/picture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/images/source_java.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/images/txt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SDALab12/src/e1/flyweight/images/unknown.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerbyTest/build/classes/derbytest/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DerbyTest/build/classes/derbytest/abc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerbyTest/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DerbyTest/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerbyTest/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../DerbyTest/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DerbyTest/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../DerbyTest/nbproject/private/private.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project_2/L11_3/movielister/DISpringHelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_2/L11_3/movielister/DISpringHelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project_2/L11_3/movielister/DIXMLSpringHelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_2/L11_3/movielister/DIXMLSpringHelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project_2/example1/movie/MovieLister.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_2/example1/movie/MovieLister.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project_2/example2/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_2/example2/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project_2/example2/secondary_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project_2/example2/secondary_config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L11_3/movielister/DISpringHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L11_3/movielister/DISpringHelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L11_3/movielister/DIXMLSpringHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L11_3/movielister/DIXMLSpringHelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example1/movie/MovieLister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example1/movie/MovieLister.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example2/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/example2/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example2/secondary_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/example2/secondary_config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab10/SDALab10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab10/SDALab10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab10/out/production/SDALab10/L10_3/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab10/out/production/SDALab10/L10_3/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab10_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab10_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11_/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab11_/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/src/memento/ScheduleGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/memento/ScheduleGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/src/memento/ScheduleTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/memento/ScheduleTableModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/src/memento/TableMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/memento/TableMemento.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,7 +48,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/example2/movielister/RunMovieLister.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="120">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
@@ -280,7 +241,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556198598542" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556202541214" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -382,16 +343,15 @@
       <workItem from="1555914690580" duration="445000" />
       <workItem from="1556079656984" duration="865000" />
       <workItem from="1556186631690" duration="5836000" />
-      <workItem from="1556198126603" duration="364000" />
+      <workItem from="1556198126603" duration="1067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19122000" />
+    <option name="totallyTimeSpent" value="19825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49739584" visible="true" weight="0.28987855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -908,7 +868,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/example2/movielister/RunMovieLister.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="120">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>

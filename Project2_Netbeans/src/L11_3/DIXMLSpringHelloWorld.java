@@ -1,4 +1,4 @@
-package L11_3.movielister;
+package L11_3;
 
 import org.springframework.beans.factory.xml.XmlBeanFactory;
 import org.springframework.core.io.FileSystemResource;
