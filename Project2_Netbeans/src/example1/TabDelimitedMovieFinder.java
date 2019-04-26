@@ -1,5 +1,5 @@
 
-package example1.movie;
+package example1;
 import java.util.ArrayList;
 import java.util.List;
 

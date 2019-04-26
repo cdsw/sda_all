@@ -1,5 +1,5 @@
 
-package example1.movie;
+package example1;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
