@@ -1,9 +1,9 @@
 package MovieListerApp;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public interface MovieFinder {
-    ArrayList findMovieByName(String name);
-    ArrayList findMovieByYear(String name);
-    ArrayList findMovieByDirector(String name);
+    List findMovieByName(String name);
+    List findMovieByYear(String name);
+    List findMovieByDirector(String name);
 }
