@@ -26,7 +26,7 @@ http://www.springframework.org/schema/lang http://www.springframework.org/schema
   
   <bean id="database_finder" class="example2.movielister.DatabaseMovieFinder" />
   
-  <bean id="file_finder" class="movielister.TabDelimitedMovieFinder" >
+  <bean id="file_finder" class="example2.movielister.TabDelimitedMovieFinder" >
       <constructor-arg index="0" ref="movie_factory" />
       <constructor-arg index="1" ref="file_reader_factory" />
   </bean>

@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0251df73-7ebd-4c3e-aece-8c0c402bb54a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/AbstractIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/FlyweightDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/FolderIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/IconFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/JavaIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/PdfIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/PictureIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/TextIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/UnknownIcon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/images/folder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/images/folder_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/images/pdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/images/picture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/images/source_java.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/images/txt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/e1/flyweight/images/unknown.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab10/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab10/SDALab10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab10/SDALab10.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab10/out/production/SDALab10/L10_3/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab10/out/production/SDALab10/L10_3/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab10_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab10_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab11_/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab11_/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/out/production/SDALab7/memento/ScheduleGUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/src/memento/ScheduleGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/memento/ScheduleGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/src/memento/ScheduleTableModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/memento/ScheduleTableModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SDALab7/src/memento/TableMemento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SDALab7/src/memento/TableMemento.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/e1/flyweight/FlyweightDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -136,14 +113,21 @@
               <item name="SDALab12" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="e1" type="462c0819:PsiDirectoryNode" />
+              <item name="flyweight" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SDALab12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SDALab12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="e1" type="462c0819:PsiDirectoryNode" />
               <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,7 +137,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556081239488" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556597598191" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/icons" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -271,6 +255,7 @@
       <updated>1556071085281</updated>
       <workItem from="1556071092011" duration="6929000" />
       <workItem from="1556186613616" duration="8000" />
+      <workItem from="1556597298369" duration="860000" />
     </task>
     <servers />
   </component>
@@ -286,12 +271,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6937000" />
+    <option name="totallyTimeSpent" value="7797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -342,13 +328,6 @@
     <entry file="file://$PROJECT_DIR$/src/e2/proxy/MapProxyTest.java" />
     <entry file="file://$PROJECT_DIR$/src/e2/proxy/MapTest.java" />
     <entry file="file://$PROJECT_DIR$/src/to_do/proxy/MapProxyTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/e1/flyweight/FlyweightDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/e1/flyweight/AbstractIcon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -580,6 +559,13 @@
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/e1/flyweight/FlyweightDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>

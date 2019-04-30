@@ -3,3 +3,6 @@
 3	Nasi Lemak 2.0	Namewee	2011
 4	Petaling Street Warriors	James Lee	2011
 5	The Legend of Hang Tuah	Phani Majumdar	1956
+6	Munafik 2	Syamsul Yusof	2018
+7	KL Gangster	Syamsul Yusof	2011
+8	Banglasia	Namewee	2015
